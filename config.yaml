@@ -1,0 +1,8 @@
+title: jamestooze.com
+# note the trailing slash!
+url: "https://jamestooze.com/"
+desc: "Overview."
+author:
+     name: "J. Tooze"
+     email: "james@jamestooze.com"
+default-template: text.html
