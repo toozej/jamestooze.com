@@ -11,7 +11,7 @@ Welcome to [jamestooze.com](/), [@toozej's](https://toozej.com) overview / landi
 
 Main site: [toozej.com](https://toozej.com)
 
-Photography: [slapsandsnaps.photo](https://slapsandsnaps.photo)
+Photography: [photos.toozej.com](https://photos.toozej.com) - or [toozej.photos](https://toozej.photos) if that's easier to remember
 
 Gaming junk: [toozinator.com](https://toozinator.com)
 
